@@ -5,7 +5,7 @@
 
 <b>In This Course:</b>
 
-1. <b>Basic Typography</b><br>
+1. <b>Headings & Basic Typography</b><br>
 Files: basic_typography.html
 
 2. <b>Text Alignment Display</b><br>
