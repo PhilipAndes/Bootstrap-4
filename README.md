@@ -17,7 +17,7 @@ Files: floats_position.html
 4. <b>Colors & Background</b><br>
 Files: colors_background.html
 
-5. <b>Spacing</b><br>
+5. <b>Margin & Padding Spacing</b><br>
 Files: spacing.html
 
 6. <b>Sizing</b><br>
