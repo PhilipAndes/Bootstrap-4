@@ -20,7 +20,7 @@ Files: colors_background.html
 5. <b>Margin & Padding Spacing</b><br>
 Files: spacing.html
 
-6. <b>Sizing</b><br>
+6. <b>Sizing & Borders</b><br>
 Files: sizing.html
 
 7. <b>Breakpoints</b><br>
