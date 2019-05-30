@@ -8,7 +8,7 @@
 1. <b>Headings & Basic Typography</b><br>
 Files: basic_typography.html
 
-2. <b>Text Alignment Display</b><br>
+2. <b>Text Alignment & Display</b><br>
 Files: text_alignment_display.html
 
 3. <b>Floats Position</b><br>
