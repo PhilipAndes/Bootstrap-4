@@ -23,7 +23,7 @@ Files: spacing.html
 6. <b>Sizing & Borders</b><br>
 Files: sizing.html
 
-7. <b>Breakpoints</b><br>
+7. <b>Breakpoints (Mediaqueries)</b><br>
 Files: breakpoints.html
 
 8. <b>buttons</b><br>
