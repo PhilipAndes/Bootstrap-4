@@ -14,7 +14,7 @@ Files: text_alignment_display.html
 3. <b>Floats & Fixed Positions</b><br>
 Files: floats_position.html
 
-4. <b>Colors Background</b><br>
+4. <b>Colors & Background</b><br>
 Files: colors_background.html
 
 5. <b>Spacing</b><br>
