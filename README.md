@@ -11,7 +11,7 @@ Files: basic_typography.html
 2. <b>Text Alignment & Display</b><br>
 Files: text_alignment_display.html
 
-3. <b>Floats Position</b><br>
+3. <b>Floats & Fixed Positions</b><br>
 Files: floats_position.html
 
 4. <b>Colors Background</b><br>
