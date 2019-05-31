@@ -65,6 +65,17 @@ Files: jumbotron.html
 
 <b>Section 3: Grid System & Flexbox:</b>
 
+1. <b>Grid System</b><br>
+Files: grid_system.html
+
+2. <b>Grid Alignment</b><br>
+Files: grid_alignment.html
+
+3. <b>Flexbox Classes</b><br>
+Files: flexbox.html
+
+4. <b>Auto Margin, Wrap & Ordering</b><br>
+Files: auto_margins_wrapping_order.html
 
 
 <b>Section 4: JavaScript Widgets:</b>
