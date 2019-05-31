@@ -29,7 +29,7 @@ Files: sizing.html
 7. <b>Breakpoints (Mediaqueries)</b><br>
 Files: breakpoints.html
 
-
+<br>
 <b>Section 2: CSS Components:</b>
 
 1. <b>buttons & Button Groups</b><br>
@@ -62,7 +62,7 @@ Files: media_object.html
 10. <b>Jumbotron</b><br>
 Files: jumbotron.html
 
-
+<br>
 <b>Section 3: Grid System & Flexbox:</b>
 
 1. <b>Grid System</b><br>
@@ -77,6 +77,25 @@ Files: flexbox.html
 4. <b>Auto Margin, Wrap & Ordering</b><br>
 Files: auto_margins_wrapping_order.html
 
-
+<br>
 <b>Section 4: JavaScript Widgets:</b>
+
+1. <b>Carousel Slider</b><br>
+Files: carousel.html
+
+2. <b>Collapse & Accordion</b><br>
+Files: collapse.html
+
+3. <b>Tooltips</b><br>
+Files: tooltips.html
+
+4. <b>Popovers</b><br>
+Files: popovers.html
+
+5. <b>Modals</b><br>
+Files: modals.html
+
+6. <b>ScrollSpy & Smooth Scrolling</b><br>
+Files: scrollspy.html
+
 
